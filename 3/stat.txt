@@ -1,0 +1,20 @@
+2024-02-03 10:18:19,057 Создание папок
+2024-02-03 10:18:19,102  make files 2, size files - 5M
+2024-02-03 10:18:19,152  make files 2, size files - 5M
+2024-02-03 10:18:19,226  make files 2, size files - 5M
+2024-02-03 10:21:29,869 Создание папок
+2024-02-03 10:21:29,886  make files 2, size files - 5M
+2024-02-03 10:21:29,901  make files 2, size files - 5M
+2024-02-03 10:21:29,963  make files 2, size files - 5M
+2024-02-03 10:23:07,743 Создание папок
+2024-02-03 10:23:07,763  make files 2, size files - 5M
+2024-02-03 10:23:07,778  make files 2, size files - 5M
+2024-02-03 10:23:07,882  make files 2, size files - 5M
+2024-02-03 10:24:41,514 Создание папок
+2024-02-03 10:24:41,521  make files 2, size files - 5M
+2024-02-03 10:24:41,537  make files 2, size files - 5M
+2024-02-03 10:24:41,616  make files 2, size files - 5M
+2024-02-03 10:32:15,837 Создание папок
+2024-02-03 10:32:15,854  make files 2, size files - 5M
+2024-02-03 10:32:15,886  make files 2, size files - 5M
+2024-02-03 10:32:15,950  make files 2, size files - 5M
